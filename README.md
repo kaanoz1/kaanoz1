@@ -21,10 +21,10 @@
 </table>
 </div>
 
-#### 🧠 Languages and Tools (have knowledge and experience)
+#### Languages and Tools (have knowledge and experience)
 
 
-##### 🤖 Computer Vision, AI & Robotics  
+##### Computer Vision, AI & Robotics  
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="Objective-C" alt="Objective-C" width="25" height="25"/>&nbsp;
@@ -46,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="25" height="25"/>&nbsp;
 
 
-##### 💻 Full-Stack & Mobile Development  
+##### Full-Stack & Mobile Development  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="25" height="25" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="25" height="25" /> &nbsp;
@@ -72,19 +72,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="25" height="25" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="Firebase" alt="Firebase" width="25" height="25" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="25" height="25" /> &nbsp;
-
-
-##### 🧰 IDEs & Developer Environment  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="" width="25" height="25" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="25" height="25" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="25" height="25" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="25" height="25" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CLion" alt="CLion" width="25" height="25" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="DataGrip" alt="DataGrip" width="25" height="25" />&nbsp;
-
-
-##### And I know Java, not knowing what to do with it  ¯\\\_(ツ)\_/¯ 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="25" height="25" /> &nbsp;
-
-<sub>(I might be mastered on it while developing Minecraft plugins) </sub>
-
