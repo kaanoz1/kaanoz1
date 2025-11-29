@@ -1,27 +1,4 @@
-<h4 align="center">Hi 👋, I'm Kaan, An enthusiastic Robotics, Computer Vision, AI and Fullstack Developer & Reseacher</h4> 
-
-
-
-
-<div align="center">
-<table>
-<tr>
-  <td>
-    <p><img src="https://preview.redd.it/c-and-c-icons-v0-nmuax05zxoab1.gif?width=640&crop=smart&auto=webp&s=0de5214adb83bd0eac8ffe3512924e3f2921ff69" alt="C" title="God's Programming Language" width="80" /></p>
-  </td>
-  <td>
-    <p>
-    <img src="https://i.redd.it/xxodzo30yoab1.gif" alt="C++" title="God's Upgraded Programming Language" width="100" />
-    </p>
-  </td>
-  <td>
-    <p><img src="python.gif" alt="Python" title="A rotating statue of a Turtle  &#128034;" width="70" /></p>
-  </td>
-</tr>
-</table>
-</div>
-
-#### Languages and Tools (have knowledge and experience)
+<h4 align="center">Hi 👋, I'm Kaan, An enthusiastic Robotics, Computer Vision, AI and Fullstack Developer & ROS </h4> 
 
 
 ##### Computer Vision, AI & Robotics  
