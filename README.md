@@ -1,10 +1,8 @@
-<h4 align="center">Hi 👋, I'm Kaan, An enthusiastic Robotics, Computer Vision, AI and Fullstack Developer & ROS </h4> 
+<h4 align="center">Hi, I'm Kaan. An enthusiastic developer mainly focused on AI, Computer Vision and Robotics </h4> 
 
 
 ##### Computer Vision, AI & Robotics  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="25" height="25"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="Objective-C" alt="Objective-C" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="25" height="25" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter-Notebook" alt="Jupyter-Notebook" width="25" height="25" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="25" height="25"/>&nbsp;
